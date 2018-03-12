@@ -1,3 +1,4 @@
+A new line added by BOB
 This is SENG300 class
 Time is 1:12pm
 Topic of th tutorial is Sourcetree
